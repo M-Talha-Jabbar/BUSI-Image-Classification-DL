@@ -40,7 +40,7 @@ A basic Convolutional Neural Network (CNN) was developed as a baseline for image
 
 ### Loss and Accuracy Plots
 
-<img width="622" alt="image" src="https://github.com/user-attachments/assets/8d7818ba-fce0-4ab9-8571-838062804496" />
+<img width="621" alt="image" src="https://github.com/user-attachments/assets/0dde3853-2e2c-429b-b3ce-b32b90d47462" />
 
 ### Observations
 
