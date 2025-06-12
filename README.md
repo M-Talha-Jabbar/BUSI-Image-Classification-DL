@@ -40,7 +40,6 @@ A basic Convolutional Neural Network (CNN) was developed as a baseline for image
 
 ### Loss and Accuracy Plots
 
-<img width="527" alt="image" src="https://github.com/user-attachments/assets/4722b592-c40b-4ba4-ac01-deb7fe3cc048" />
 <img width="622" alt="image" src="https://github.com/user-attachments/assets/8d7818ba-fce0-4ab9-8571-838062804496" />
 
 ### Observations
@@ -73,7 +72,7 @@ To significantly enhance the model's performance and achieve a testing accuracy 
 
 ### Loss and Accuracy Plots
 
-<img width="502" alt="image" src="https://github.com/user-attachments/assets/0c3177cf-2013-4bce-b079-59163ca96b22" />
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/74cff540-d84a-4d29-b921-52e3a2a09741" />
 
 ### Observations
 
@@ -102,7 +101,7 @@ The ResNet50 model from Phase 2 was retained. L2 regularization (with a coeffici
 
 ### Loss and Accuracy Plots
 
-<img width="499" alt="image" src="https://github.com/user-attachments/assets/51190767-030b-4705-b8a7-df0ade313d3e" />
+<img width="864" alt="image" src="https://github.com/user-attachments/assets/4ecda5e5-03d6-4579-ad42-1c5b807cfc7b" />
 
 ### Observations
 
