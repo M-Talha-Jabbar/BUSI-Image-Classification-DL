@@ -1,1 +1,1 @@
-# Breast-Ultrasound-Cancer-DL
+# BUSI-Image-Classification-DL
